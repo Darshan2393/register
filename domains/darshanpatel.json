@@ -6,6 +6,12 @@
     "email": "darshanmpatel2003@gmail.com"
   },
   "records": {
-    "CNAME": "cname.vercel-dns.com"
+    "CNAME": "cname.vercel-dns.com",
+    "TXT": {
+      "_vercel": [
+        "vc-domain-verify=darshanpatel.is-a.dev,feb6577a4266dbe02574",
+        "vc-domain-verify=www.darshanpatel.is-a.dev,85d6027ccb39e2690d45"
+      ]
+    }
   }
 }
